@@ -16,11 +16,6 @@
 
     <hr />
     <div class="columns">
-      <!-- <div class="column">
-        <h3>Original Data</h3>
-        <br />
-        {{ originalData }}
-      </div> -->
     </div>
     <div class="columns">
       <div class="column">
